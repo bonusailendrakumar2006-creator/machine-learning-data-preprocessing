@@ -59,15 +59,6 @@ During this project I learned:
 
 ---
 
- ▶️ How to Run
-
-```bash
-pip install -r requirements.txt
-```
-
-Then open the notebook or run the Python script.
-
----
 
  📚 Libraries Used
 
